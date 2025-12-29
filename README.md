@@ -3,7 +3,11 @@
 <p align="center">
   <img src="https://img.shields.io/github/stars/pierpaolo28/awesome-bootstrapper-roadmap?style=for-the-badge&color=gold" alt="GitHub Stars">
   <img src="https://img.shields.io/github/forks/pierpaolo28/awesome-bootstrapper-roadmap?style=for-the-badge&color=blue" alt="GitHub Forks">
-  <img src="https://img.shields.io/github/license/pierpaolo28/awesome-bootstrapper-roadmap?style=for-the-badge&color=green" alt="License">
+  <a href="https://www.linkedin.com/in/pierpaolo28/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <br>
+  <a href="https://www.buymeacoffee.com/pierpaolo" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a> <br>
 </p>
 
 > **"First they ignore you, then they laugh at you, then you build it with Open Source and sell it for $5M."**
