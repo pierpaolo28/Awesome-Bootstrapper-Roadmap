@@ -26,7 +26,7 @@
 *   [Finance & Legal](#finance--legal)
 *   [Data & Analytics](#data--analytics)
 *   [Automation & Internal Tools](#automation--internal-tools)
-*   [AI Agents & LLM Ops (2025)](#ai-agents--llm-ops-2025)
+*   [AI Agents & LLM Ops](#ai-agents--llm-ops)
 
 ### [🗺 Part II: The Master Roadmap (Idea to Exit)](#-part-ii-the-master-roadmap-idea-to-exit)
 *   **[Phase 0: Research & Ideation](#phase-0-research--ideation)** (Finding the Gap)
@@ -40,9 +40,9 @@
 *   **[Phase 8: Data & Operations](#phase-8-data--operations-prep-for-exit)** (Preparing for the Exit)
 *   **[Phase 9: The Exit Marketplaces](#phase-9-the-exit-marketplaces-the-payday)** (The Payday)
 
-### [🏗 Part III: Infrastructure & Self-Hosting](#-part-iii-infrastructure--self-hosting)
+### [🏗 Part III: Infrastructure & Self-Hosting](#-part-iii-infrastructure--self-hosting-1)
 
-### [🤝 Part IV: Community & Support](#-part-iv-community--support)
+### [🤝 Part IV: Community & Support](#-part-iv-community--support-1)
 
 ---
 
@@ -109,7 +109,7 @@
 | **Zapier / Make** | [n8n](https://github.com/n8n-io/n8n) | ![Stars](https://img.shields.io/github/stars/n8n-io/n8n?style=flat-square&label=%E2%AD%90) | Visual workflow automation with 400+ integrations. |
 | **Retool** | [Appsmith](https://github.com/appsmithorg/appsmith) / [ToolJet](https://github.com/ToolJet/ToolJet) | ![Stars](https://img.shields.io/github/stars/appsmithorg/appsmith?style=flat-square&label=%E2%AD%90) | Drag-and-drop builders for internal admin panels. |
 
-### AI Agents & LLM Ops (2025)
+### AI Agents & LLM Ops
 | Paid SaaS | Open Source Alternative | Traction | Description |
 | :--- | :--- | :--- | :--- |
 | **OpenAI Agents** | [Dify](https://github.com/langgenius/dify) | ![Stars](https://img.shields.io/github/stars/langgenius/dify?style=flat-square&label=%E2%AD%90) | LLM application development and orchestration. |
