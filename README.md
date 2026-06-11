@@ -135,6 +135,7 @@
 *   [ ] **[Logo.com](https://logo.com) / [Looka](https://looka.com):** Instant AI branding.
 *   [ ] **[Lapa.ninja](https://lapa.ninja):** Landing page inspiration.
 *   [ ] **[Stripe Atlas](https://stripe.com/atlas):** Incorporation and US banking.
+*   [ ] **[LLC Class](https://llcclass.com):** [Wyoming LLC registration](https://llcclass.com/wyoming) for non-US founders — lower-cost alternative to Stripe Atlas with [registered agent](https://llcclass.com/what-is-llc-registered-agent), EIN, and Operating Agreement to enable Stripe and Mercury.
 *   [ ] **[Shadcn/UI](https://ui.shadcn.com):** Modern React UI library.
 
 ### Phase 2: The Tech Stack (The "Speed" Boilerplates)
