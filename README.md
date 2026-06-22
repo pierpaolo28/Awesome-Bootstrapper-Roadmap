@@ -92,6 +92,7 @@
 | **Intercom** | [Chatwoot](https://github.com/chatwoot/chatwoot) | ![Stars](https://img.shields.io/github/stars/chatwoot/chatwoot?style=flat-square&label=%E2%AD%90) | Omni-channel support (Live chat, Email, WhatsApp). |
 | **Mailchimp** | [Listmonk](https://github.com/knadh/listmonk) / [Mautic](https://github.com/mautic/mautic) | ![Stars](https://img.shields.io/github/stars/knadh/listmonk?style=flat-square&label=%E2%AD%90) | Newsletter management and marketing automation. |
 | **Typeform** | [Formbricks](https://github.com/formbricks/formbricks) | ![Stars](https://img.shields.io/github/stars/formbricks/formbricks?style=flat-square&label=%E2%AD%90) | In-product surveys and experience management. |
+| **WordPress / Webflow** | [UnfoldCMS](https://github.com/hpakdaman/unfoldcms) | ![Stars](https://img.shields.io/github/stars/hpakdaman/unfoldcms?style=flat-square&label=%E2%AD%90) | Self-hosted CMS (Laravel 12 + React 19 + shadcn/ui) — no monthly SaaS fee. |
 
 ### Finance & Legal
 | Paid SaaS | Open Source Alternative | Traction | Description |
