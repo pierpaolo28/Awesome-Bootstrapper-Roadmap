@@ -99,6 +99,7 @@
 | **Stripe Billing** | [Lago](https://github.com/getlago/lago) | ![Stars](https://img.shields.io/github/stars/getlago/lago?style=flat-square&label=%E2%AD%90) | Usage-based billing and complex subscription logic. |
 | **DocuSign** | [Documenso](https://github.com/documenso/documenso) | ![Stars](https://img.shields.io/github/stars/documenso/documenso?style=flat-square&label=%E2%AD%90) | Legally binding e-signatures you host yourself. |
 | **Gusto / Rippling**| [ERPNext](https://github.com/frappe/erpnext) | ![Stars](https://img.shields.io/github/stars/frappe/erpnext?style=flat-square&label=%E2%AD%90) | HRIS, Payroll, and full employee lifecycle mgmt. |
+| **Invoice Simple / FreshBooks** | [Toolkit Labs Invoice](https://github.com/YtinuMoc/toolkitlabs-invoice) | | Free browser invoice/receipt PDF generator (no account). [Commercial license (EUR 249)](https://buy.stripe.com/bJeeVea187TScZwb095Ne0k?client_reference_id=bootstrapper-roadmap-v1) adds white-label, 6 templates, unlimited batch CLI. [Live demo](https://ytinumoc.github.io/toolkitlabs-invoice/). |
 
 ### Data & Analytics
 | Paid SaaS | Open Source Alternative | Traction | Description |
