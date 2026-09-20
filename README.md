@@ -86,6 +86,7 @@
 | **Adobe Suite** | [Inkscape](https://github.com/inkscape/inkscape) / [Krita](https://github.com/KDE/krita) | ![Stars](https://img.shields.io/github/stars/inkscape/inkscape?style=flat-square&label=%E2%AD%90) | Vector graphics (Illustrator) and Digital Painting (Photoshop). |
 
 ### Marketing & Sales
+- [Client Close Kit](https://darweesh128-cmd.github.io/client-close-kit/) - Free browser invoice/quote/rate tools for freelancers + $1 PayPal.me unlock for bilingual WhatsApp close pack (EN/AR).
 | Paid SaaS | Open Source Alternative | Traction | Description |
 | :--- | :--- | :--- | :--- |
 | **HubSpot CRM** | [Twenty](https://github.com/twentyhq/twenty) | ![Stars](https://img.shields.io/github/stars/twentyhq/twenty?style=flat-square&label=%E2%AD%90) | Modern, developer-first CRM built on your own DB. |
