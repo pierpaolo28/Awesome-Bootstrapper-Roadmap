@@ -76,6 +76,7 @@
 | :--- | :--- | :--- | :--- |
 | **Shopify** | [Medusa](https://github.com/medusajs/medusa) | ![Stars](https://img.shields.io/github/stars/medusajs/medusa?style=flat-square&label=%E2%AD%90) | Headless commerce engine for custom storefronts. |
 | **Algolia** | [Meilisearch](https://github.com/meilisearch/meilisearch) / [Typesense](https://github.com/typesense/typesense) | ![Stars](https://img.shields.io/github/stars/meilisearch/meilisearch?style=flat-square&label=%E2%AD%90) | Lightning-fast, relevant search for apps and sites. |
+| **Statuspage.io** | [SiteWatcher](https://github.com/NikKurkov/sitewatcher) | ![Stars](https://img.shields.io/github/stars/NikKurkov/sitewatcher?style=flat-square&label=%E2%AD%90) | Self-hosted status pages with website uptime and response-time history. |
 | **Statuspage.io**| [Uptime Kuma](https://github.com/louislam/uptime-kuma) | ![Stars](https://img.shields.io/github/stars/louislam/uptime-kuma?style=flat-square&label=%E2%AD%90) | Monitoring and beautiful public status pages. |
 
 ### Design & Creative
